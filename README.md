@@ -2,7 +2,7 @@
 
 # Note
 
-- this repo was moved to (ntzoe-org)[https://github.com/ntzoe-org/tomcat-space]
+- this repo was moved to [ntzoe-org](https://github.com/ntzoe-org/tomcat-space)
 
 # tomcat-space
 
