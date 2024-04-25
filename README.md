@@ -1,7 +1,8 @@
 
-# note
 
-- setup [ntzoe-home](https://github.com/ngtnthori03/ntzoe-home) first.
+# Note
+
+- this repo was moved to (ntzoe-org)[https://github.com/ntzoe-org/tomcat-space]
 
 # tomcat-space
 
